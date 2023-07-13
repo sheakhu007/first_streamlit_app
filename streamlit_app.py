@@ -7,5 +7,5 @@ import streamlit
 
 streamlit.title('My Parents Healthy Dinner')
 streamlit.title("I Love You")
-streamlit.title('I Love You 
-Because I Love YOu')
+streamlit.title("""I Love You 
+Because I Love YOu""")
